@@ -1,2 +1,2 @@
 # CodingPractices
-This Project is a test project which is written to learn technologies and data structures and solution for the online coding platform question. Technologies include mongodb and orientdb.
+This Project is a test project which is written to learn technologies, data structures and algorithms and also contains the solution for the hackathon question.
