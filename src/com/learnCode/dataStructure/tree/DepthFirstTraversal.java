@@ -13,7 +13,5 @@ public class DepthFirstTraversal
 	{
 		DepthFirstTraversal dfs = new DepthFirstTraversal();
 		
-		dfs.inOrderTraversal(root);
-		
 	}
 }
