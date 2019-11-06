@@ -31,6 +31,7 @@ public class AutoCompleteSystem
 		List<String> result = new ArrayList<>();
 		System.out.print("\nEnter Total Inputs in dictionary:");
 		int totalInputs = scn.nextInt();
+		System.out.print("\nEnter words:");
 		scn.next();
 		for(int i=0;i<totalInputs;i++)
 		{

@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JobScheduler",
+            "request": "launch",
+            "mainClass": "com.dailyCodingProblem.JobScheduler",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AutoCompleteSystem",
+            "request": "launch",
+            "mainClass": "com.dailyCodingProblem.AutoCompleteSystem",
+            "projectName": "LEARN_CODE"
+        }
+    ]
+}
