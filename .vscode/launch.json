@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Geektrust",
+            "request": "launch",
+            "mainClass": "com.geektrust.Geektrust",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WarSet",
+            "request": "launch",
+            "mainClass": "com.geektrust.WarSet",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaircaseClimb",
+            "request": "launch",
+            "mainClass": "com.dailyCodingProblem.StaircaseClimb",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - JobScheduler",
             "request": "launch",
             "mainClass": "com.dailyCodingProblem.JobScheduler",
