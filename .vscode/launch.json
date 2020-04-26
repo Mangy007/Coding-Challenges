@@ -4,6 +4,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - LinearSearch",
             "request": "launch",
+            "mainClass": "com.geeksForGeeks.algorithms.search.LinearSearch",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinearSearch",
+            "request": "launch",
             "mainClass": "com.geeksForGeeks.algorithms.LinearSearch",
             "projectName": "LEARN_CODE"
         },
