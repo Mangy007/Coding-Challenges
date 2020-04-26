@@ -14,7 +14,7 @@ public class BinarySearch
         System.out.println(elementIndex);
     }
 
-    public static int binarySearch(int[] arr, int start, int end, int numberToSearch)
+    private static int binarySearch(int[] arr, int start, int end, int numberToSearch)
     {
         if (start < end)
         {
