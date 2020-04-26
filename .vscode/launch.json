@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BinarySearch",
+            "request": "launch",
+            "mainClass": "com.geeksForGeeks.algorithms.search.BinarySearch",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LinearSearch",
             "request": "launch",
             "mainClass": "com.geeksForGeeks.algorithms.search.LinearSearch",
