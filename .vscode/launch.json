@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - InvertBinaryTree",
+            "request": "launch",
+            "mainClass": "com.leetcode.june30DayChallenge.InvertBinaryTree",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Geektrust",
             "request": "launch",
             "mainClass": "com.geektrust.Geektrust",
