@@ -4,6 +4,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - InvertBinaryTree",
             "request": "launch",
+            "mainClass": "com.leetcode.june30DayChallenge.Day1.InvertBinaryTree",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InvertBinaryTree",
+            "request": "launch",
             "mainClass": "com.leetcode.june30DayChallenge.InvertBinaryTree",
             "projectName": "LEARN_CODE"
         },

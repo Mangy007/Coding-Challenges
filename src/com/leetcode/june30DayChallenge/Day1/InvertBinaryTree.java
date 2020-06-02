@@ -1,4 +1,4 @@
-package com.leetcode.june30DayChallenge;
+package com.leetcode.june30DayChallenge.Day1;
 
 class Node {
     int val;
@@ -46,8 +46,8 @@ public class InvertBinaryTree
         if(node==null)
             return node;
         
-        Node left = invertTree(node.right);
-        Node right = invertTree(node.left);
+        Node left = invertTree(node.left);
+        Node right = invertTree(node.right);
 
         node.left = right;
         node.right = left;
