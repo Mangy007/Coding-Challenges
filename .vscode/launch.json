@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DeleteNodeLinkedList",
+            "request": "launch",
+            "mainClass": "com.leetcode.june30DayChallenge.Day2.DeleteNodeLinkedList",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - InvertBinaryTree",
             "request": "launch",
             "mainClass": "com.leetcode.june30DayChallenge.Day1.InvertBinaryTree",
