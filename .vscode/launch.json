@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TwoCitySchedulling",
+            "request": "launch",
+            "mainClass": "com.leetcode.june30DayChallenge.Day3.TwoCitySchedulling",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DeleteNodeLinkedList",
             "request": "launch",
             "mainClass": "com.leetcode.june30DayChallenge.Day2.DeleteNodeLinkedList",
