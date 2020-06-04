@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ReverseString",
+            "request": "launch",
+            "mainClass": "com.leetcode.june30DayChallenge.Day4.ReverseString",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TwoCitySchedulling",
             "request": "launch",
             "mainClass": "com.leetcode.june30DayChallenge.Day3.TwoCitySchedulling",
