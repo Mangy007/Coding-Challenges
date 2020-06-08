@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CoinChange2",
+            "request": "launch",
+            "mainClass": "com.leetcode.june30DayChallenge.Day7.CoinChange2",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - QueueReconstruction",
             "request": "launch",
             "mainClass": "com.leetcode.june30DayChallenge.Day6.QueueReconstruction",
