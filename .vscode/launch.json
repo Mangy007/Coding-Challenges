@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IsSubsequence",
+            "request": "launch",
+            "mainClass": "com.leetcode.june30DayChallenge.Day9.IsSubsequence",
+            "projectName": "LEARN_CODE"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PowerOfTwo",
             "request": "launch",
             "mainClass": "com.leetcode.june30DayChallenge.Day8.PowerOfTwo",
